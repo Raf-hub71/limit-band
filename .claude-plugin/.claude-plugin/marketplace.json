@@ -1,0 +1,11 @@
+{
+  "name": "raphael-erweiterungen",
+  "owner": { "name": "Raphael Bremer" },
+  "plugins": [
+    {
+      "name": "limit-band",
+      "source": "./",
+      "description": "Zeigt Wochenlimit und 5-Stunden-Limit als farbigen Balken (grün bis rot) mit Prozentzahl über dem Eingabefeld."
+    }
+  ]
+}
